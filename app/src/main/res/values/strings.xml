@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Términos FGSTI</string>
+    <string name="prueba">acrónimo de Web Service Definition Language (lenguaje de definición de servicio web), se trata de un formato XML para la descripción de servicios de red como un conjunto de puntos de acceso que operan sobre mensajes que contienen información basada en documentos o en procedimientos.acrónimo de Web Service Definition Language (lenguaje de definición de servicio web), se trata de un formato XML para la descripción de servicios de red como un conjunto de puntos de acceso que operan sobre mensajes que contienen información basada en documentos o en procedimientos.acrónimo de Web Service Definition Language (lenguaje de definición de servicio web), se trata de un formato XML para la descripción de servicios de red como un conjunto de puntos de acceso que operan sobre mensajes que contienen información basada en documentos o en procedimientos.</string>
+    <string name="no_hay_resultados">No hay resultados para tu búsqueda :(</string>
+    <string name="paginacion">Resultado %1$d de %2$d</string>
+</resources>
